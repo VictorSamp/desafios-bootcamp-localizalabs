@@ -9,8 +9,3 @@
 <p>Nesse repositório estão presentes todos os desafios do bootcamp "LocalizaLabs .Net Developer" fornecido pela Localiza em parceria com a Digital Innovation One.</p>
 
 O bootcamp pode ser encontrado nesse link: [LocalizaLabs .Net Developer](https://web.digitalinnovation.one/track/localizalabs-net-developer)
-
-### Tecnologias Implementadas:
-
-<left><img src="./assets/icone_csharp.png" alt="csharp" height="50"/></left>
-
