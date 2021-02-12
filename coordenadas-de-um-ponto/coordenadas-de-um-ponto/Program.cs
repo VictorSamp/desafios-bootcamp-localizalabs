@@ -35,9 +35,13 @@ namespace coordenadas_de_um_ponto
             {
                 Console.WriteLine("Q3");
             }
-            else
+            else if (X > 0 && Y < 0)
             {
                 Console.WriteLine("Q4");
+            }
+            else
+            {
+                throw new ArgumentOutOfRangeException();
             }
         }
     }
